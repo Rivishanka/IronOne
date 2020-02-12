@@ -1,0 +1,25 @@
+{
+  "customers": [
+    {
+      "name": "Rivishanka",
+      "phone": "910928392098",
+      "address": "123 Sun Street",
+      "membership": "Pro",
+      "id": 1
+    },
+    {
+      "name": "Madushanka",
+      "phone": "808937482734",
+      "address": "893 Main Voulevard",
+      "membership": "Platinum",
+      "id": 2
+    },
+    {
+      "name": "Gayash",
+      "phone": "023238712661",
+      "address": "Rathnapura",
+      "membership": "Basic",
+      "id": 3
+    }
+  ]
+}
